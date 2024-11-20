@@ -1,3 +1,8 @@
+---
+title: 'BFF: Backend for Frontend'
+date: 2024-11-20
+---
+
 # BFF
 
 - BFF (Backend for Frontend) is a software architecture pattern.
