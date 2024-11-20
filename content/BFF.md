@@ -1,2 +1,16 @@
 # BFF
 
+- BFF (Backend for Frontend) is a software architecture pattern.
+- To provide a backend that is optimized for the needs of a specific frontend.
+- To create an API layer that handles frontend-specific logic.
+
+When the frontend receives raw data directly from a generic backend, it often needs to:
+1. Process the data: Combine, filter or format the data into the structure it needs for rendering.
+2. Perform calculations: Apply business logic, like calculating totals or deriving addditional values.
+
+BFF aims to solve: minimizing the burden on the frontend by centralizing certain logic in the backend.
+
+The BFF will do the following:
+- Call the relevant APIs and obtain the needed data
+- Format the data based on the frontend representation
+- Send the formatted data to the frontend
