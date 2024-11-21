@@ -9,6 +9,10 @@ body {
     font-style: normal;
 }
 
-title {
+{{/* title {
+    font-family: 'Courier New', monospace;
+} */}}
+
+.nav .logo a {
     font-family: 'Courier New', monospace;
 }
