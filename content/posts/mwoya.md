@@ -5,3 +5,5 @@ date: 2025-01-21
 
 - [x] ~~Ethereum~~
 - Solana
+- RTMP
+- HLS
