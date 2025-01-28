@@ -1,6 +1,7 @@
 {
     "workbench.colorTheme": "Lunar Pink",
     "cSpell.words": [
+        "errgroup",
         "frontends",
         "goroutines",
         "Hitotose",
