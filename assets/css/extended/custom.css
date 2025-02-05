@@ -5,6 +5,9 @@
 
 body {
     font-family: 'Courier New', monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
 }
 
 .nav .logo a {
