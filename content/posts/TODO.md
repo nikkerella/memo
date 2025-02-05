@@ -28,7 +28,7 @@ tags: [todo]
 - [ ] GitHub Actions
 - [ ] Kubernetes
 
-#### Games
+#### GameDev
 
 - [ ] Unity
 
