@@ -25,6 +25,7 @@ tags: [todo]
 
 #### DevOps
 
+- [ ] Git (Teamwork)
 - [ ] GitHub Actions
 - [ ] Kubernetes
 
