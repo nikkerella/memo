@@ -28,6 +28,7 @@ tags: [todo]
 
 - [ ] Git (Teamwork)
 - [ ] GitHub Actions
+- [ ] Heroku
 - [ ] Kubernetes
 
 #### GameDev
