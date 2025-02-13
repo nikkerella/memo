@@ -1,43 +1,54 @@
 ---
-title: TODO
-date: 2025-02-04
+title: 📃TODO
+date: 2025-02-13
 tags: [todo]
 ---
 
-## Todo
-
-### Languages
-
-- [ ] TOEIC
-
-### Programming
-
-#### Backend
+## Backend
 
 - [ ] Elasticsearch
 - [ ] GraphQL
 - [ ] gRPC
 - [ ] Microservice
 
-#### Frontend
+## Frontend
 
 - [ ] TailwindCSS
 - [ ] Vite
 
-#### DevOps
+## DevOps
 
 - [ ] Git (Teamwork)
 - [ ] GitHub Actions
-- [ ] Heroku
+- [ ] Heroku → AWS Lightsail → ?
 - [ ] Kubernetes
 
-#### GameDev
+## GameDev
 
 - [ ] Unity
 
-#### Mobile
+## Mobile
 
 - [ ] iOS Dev
 - [ ] Swift
 
-## Done
+# Done
+
+## Backend
+
+- [x] Go
+  - [x] Gin
+
+## Computer Science
+
+- [x] Relearn OSI Model
+
+## DevOps
+
+- [x] Docker
+
+## Frontend
+
+- [x] React
+- [x] TypeScript
+- [x] Vue
