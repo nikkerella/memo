@@ -1,6 +1,6 @@
 ---
 title: 📃TODO
-date: 2025-02-13
+date: 2025-02-17
 tags: [todo]
 ---
 
@@ -10,6 +10,12 @@ tags: [todo]
 - [ ] GraphQL
 - [ ] gRPC
 - [ ] Microservice
+
+## Computer Science
+
+## Cloud Computing
+
+- [ ] 
 
 ## Frontend
 
