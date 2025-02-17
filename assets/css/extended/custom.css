@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
-
 body {
-  font-family: "Orbitron", serif;
+  font-family: 'Courier New', monospace;
 }
 
 .nav .logo a {

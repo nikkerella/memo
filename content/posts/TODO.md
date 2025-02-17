@@ -11,12 +11,6 @@ tags: [todo]
 - [ ] gRPC
 - [ ] Microservice
 
-## Computer Science
-
-## Cloud Computing
-
-- [ ] 
-
 ## Frontend
 
 - [ ] TailwindCSS
