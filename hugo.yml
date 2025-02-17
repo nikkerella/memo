@@ -90,14 +90,13 @@ params:
 menu:
   main:
     - identifier: posts
-      name: 포스트
+      name: Post
       url: /posts/
       weight: 10
     - identifier: tags
-      name: 태그
+      name: Tag
       url: /tags/
       weight: 20
-
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
