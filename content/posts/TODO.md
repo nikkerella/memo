@@ -8,8 +8,16 @@ tags: [todo]
 
 - [ ] Elasticsearch
 - [ ] GraphQL
-- [ ] gRPC
 - [ ] Microservice
+  - [ ] gRPC
+  - [ ] Security
+    - [ ] JWT Authentication
+    - [ ] Rate Limiting
+    - [ ] OAuth2 / OpenID Connect
+  - [ ] Understand Service Discovery & API Gateway
+- [ ] Messaging
+  - [ ] Kafka
+  - [ ] RabbitMQ
 
 ## Frontend
 
@@ -31,6 +39,22 @@ tags: [todo]
 
 - [ ] iOS Dev
 - [ ] Swift
+
+## Project
+
+- [ ] Make a Mini Game
+  - [ ] Auth Service (JWT login)
+  - [ ] Game Service (CRUD for game data)
+  - [ ] Review Service (Microservice for game reviews)
+  - [ ] API Gateway
+  - [ ] Database (PostgreSQL & Redis)
+  - [ ] gRPC Communication
+  - [ ] Event Queue (Kafka for user actions)
+  - [ ] Deploy with Docker / Kubernetes
+
+- [ ] Rebuild Personal Website
+  - [ ] Lightsail
+  - [ ] Domain
 
 # Done
 
