@@ -42,7 +42,7 @@ tags: [todo]
 
 ## Project
 
-- [ ] Make a Mini Game
+- [ ] Project Eutopia
   - [ ] Auth Service (JWT login)
   - [ ] Game Service (CRUD for game data)
   - [ ] Review Service (Microservice for game reviews)
@@ -52,9 +52,15 @@ tags: [todo]
   - [ ] Event Queue (Kafka for user actions)
   - [ ] Deploy with Docker / Kubernetes
 
-- [ ] Rebuild Personal Website
-  - [ ] Lightsail
-  - [ ] Domain
+- [ ] Project Hitotose
+  - [ ] Deployment
+    - [ ] Lightsail
+    - [ ] Domain
+    - [ ] Docker & Kubernetes
+  - [ ] Echo
+  - [ ] gRPC
+    - [x] Golang
+    - [ ] gRPC-Web
 
 # Done
 
