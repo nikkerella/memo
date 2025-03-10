@@ -25,5 +25,9 @@
         "TOEIC",
         "Vuetify",
         "Yoon"
+    ],
+    "cSpell.words": [
+        "DTLS",
+        "SRTP"
     ]
 }
