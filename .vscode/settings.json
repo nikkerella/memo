@@ -31,6 +31,7 @@
         "decluttered",
         "decluttering",
         "DTLS",
+        "preemptable",
         "SRTP"
     ]
 }
